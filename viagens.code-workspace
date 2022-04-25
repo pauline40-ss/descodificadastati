@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\projeto compartilhado"
+		},
+		{
+			"path": "..\\descodificadastati"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto compartilhado"
+	}
+}
